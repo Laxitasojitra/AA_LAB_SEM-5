@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/91915/Documents/GitHub/AA_LAB_SEM-5/LAB01",
-      "program": "c:/Users/91915/Documents/GitHub/AA_LAB_SEM-5/LAB01/build/Debug/outDebug",
+      "cwd": "c:/Users/91915/Documents/GitHub/AA_LAB_SEM-5/LAB02",
+      "program": "c:/Users/91915/Documents/GitHub/AA_LAB_SEM-5/LAB02/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
